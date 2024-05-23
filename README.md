@@ -1,14 +1,16 @@
 ### Hi! I'm Lucas Allan! 🕹️
 
-Sou um desenvolvedor apaixonado por tecnologia, buscando sempre aprender e aprimorar minhas habilidades.
+I'm a developer passionate about technology, always seeking to learn and improve my skills.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasallan.contato@gmail.com)
 
-![Lucas Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lusca05c&show_icons=true&theme=merko)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img alt="Lucas Allan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lusca05c&show_icons=true&theme=merko" style="width: 48%; height: 180px;">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusca05c&layout=compact&theme=merko" style="width: 48%; height: 180px;">
+</div>
 
 ## Preferred Technologies for Practice and Improvement
 <div style="display: inline_block"><br/>
-  <img align="center" alt="Linux Mint" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
